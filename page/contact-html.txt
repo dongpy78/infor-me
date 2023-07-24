@@ -1,0 +1,32 @@
+ <!-- connect -->
+    <section class="connect">
+      <video
+        controls
+        autoplay
+        muted
+        loop
+        class="video-container"
+        poster="./images/project-1.jpeg"
+      >
+        <source src="./videos/connect.mp4" type="video/mp4" />
+        Sorry, your browser dose not support embeded videos
+      </video>
+
+      <div class="video-banner">
+        <!-- section title -->
+        <div class="section-title">
+          <h2>let's get in touch</h2>
+          <div class="underline"></div>
+        </div>
+        <!-- end of section title -->
+        <p class="video-text">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint
+          molestiae totam consequatur alias ipsa eum id quisquam quia ad eaque,
+          praesentium labore, iure asperiores! Neque excepturi, tempora,
+          repudiandae voluptas dolor sequi ducimus, itaque velit suscipit
+          provident fuga delectus consequuntur temporibus.
+        </p>
+        <a class="btn" href="contact.html">contact me</a>
+      </div>
+    </section>
+    <!-- end of connect -->
